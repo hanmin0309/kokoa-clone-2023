@@ -1,0 +1,11 @@
+.nav {
+    background-color: #F7F8FE;
+    padding: 20px 40px;
+}
+
+.nav__list {
+    display: flex;
+    justify-content: space-between;
+
+
+}
